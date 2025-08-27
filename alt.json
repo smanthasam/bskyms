@@ -11,7 +11,7 @@
       "version": "1.103.0",
       "versionDate": "2025-08-27T00:00:00-05:00",
       "versionDescription": "Mississippi bypass build. No VPN required.",
-      "downloadURL": "https://github.com/smanthasam/bskyms/blob/main/bsky1.103.ipa",
+      "downloadURL": "https://github.com/smanthasam/bskyms/raw/refs/heads/main/bsky1.103.ipa",
       "localizedDescription": "This is the public Bluesky build uploaded to the App Store before geo-restrictions were added for Mississippi. No VPN required.",
       "iconURL": "https://i.imgur.com/d49b8Fv.png",
       "tintColor": "5865F2",
