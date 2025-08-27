@@ -11,23 +11,23 @@
     {
       "name": "Bluesky",
       "bundleIdentifier": "xyz.blueskyweb.app",
-      "marketplaceID": "",
       "developerName": "Bluesky",
-      "subtitle": "Social",
-      "localizedDescription": "This is the public Bluesky build uploaded to the AppStore before Geo restrictions were added for Mississippi.\nThis allows Mississippi users into the site without ever laying hand on a VPN!",
+      "version": "1.103.0",
+      "downloadURL": "https://anonfile.com/download/9JHTXoKRrQwhuKu/0l5YzMP83yOAD/xyz.blueskyweb.app-1.103-Decrypted.ipa",
       "iconURL": "https://i.imgur.com/d49b8Fv.png",
       "tintColor": "#0c7cfc",
       "category": "social",
+      "localizedDescription": "This is the public Bluesky build uploaded to the AppStore before Geo restrictions were added for Mississippi.\nThis allows Mississippi users into the site without ever laying hand on a VPN!",
       "screenshots": [],
       "versions": [
         {
-          "downloadURL": "https://anonfile.co/download/9JHTXoKRrQwhuKu/0l5YzMP83yOAD/xyz.blueskyweb.app-1.103-Decrypted.ipa",
-          "size": 31400000,
           "version": "1.103.0",
-          "buildVersion": null,
+          "buildVersion": "1.103.0",
+          "downloadURL": "https://anonfile.com/download/9JHTXoKRrQwhuKu/0l5YzMP83yOAD/xyz.blueskyweb.app-1.103-Decrypted.ipa",
           "date": "2025-08-27T04:28:00-05:00",
+          "size": 31400000,
           "localizedDescription": "",
-          "minOSVersion": null
+          "minOSVersion": "14.0"
         }
       ],
       "appPermissions": {
