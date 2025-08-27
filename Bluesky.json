@@ -1,0 +1,46 @@
+{
+  "name": "Bluesky",
+  "subtitle": "Mississippi Gone Dark!",
+  "description": "Hi!\nThis is mainly for users who wish to access Bluesky without using a VPN.",
+  "iconURL": "https://i.imgur.com/d49b8Fv.png",
+  "website": "https://bsky.app/profile/smanthasam.bsky.social",
+  "patreonURL": "",
+  "tintColor": "#110b5e",
+  "featuredApps": [],
+  "apps": [
+    {
+      "name": "Bluesky",
+      "bundleIdentifier": "xyz.blueskyweb.app",
+      "marketplaceID": "",
+      "developerName": "Bluesky",
+      "subtitle": "Social",
+      "localizedDescription": "This is the public Bluesky build uploaded to the AppStore before Geo restrictions were added for Mississippi.\nThis allows Mississippi users into the site without ever laying hand on a VPN!",
+      "iconURL": "https://i.imgur.com/d49b8Fv.png",
+      "tintColor": "#0c7cfc",
+      "category": "social",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://anonfile.co/download/9JHTXoKRrQwhuKu/0l5YzMP83yOAD/xyz.blueskyweb.app-1.103-Decrypted.ipa",
+          "size": 31400000,
+          "version": "1.103.0",
+          "buildVersion": null,
+          "date": "2025-08-27T04:28:00-05:00",
+          "localizedDescription": "",
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSPhotoLibraryUsageDescription": "Used for profile pictures, posts, and other kinds of content",
+          "NSCameraUsageDescription": "Used for profile pictures, posts, and other kinds of content.",
+          "NSPhotoLibraryAddUsageDescription": "Used to save images to your library.",
+          "NSMicrophoneUsageDescription": "Used for posts and other kinds of content."
+        }
+      },
+      "patreon": {}
+    }
+  ],
+  "news": []
+}
